@@ -1,0 +1,226 @@
+body {
+  font-family: "Encode Sans", sans-serif;
+  background-color: #ffffff;
+  width: 1250px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+}
+
+.logo-globo {
+  width: 171px;
+  height: 36px;
+}
+
+.linha_divisoria {
+  width: 1250px;
+  height: 1px;
+  background-color: #f5f6f7;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.sub-titulos {
+  display: flex;
+  justify-content: space-between;
+  font-size: 19px;
+  line-height: 23.75px;
+  font-family: "Encode Sans", sans-serif;
+  font-weight: 700;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.g1 {
+  color: #c3170c;
+}
+
+.o_globo {
+  color: #1e4b9b;
+}
+
+.valor {
+  color: #006766;
+}
+
+.ge {
+  color: #07aa47;
+}
+
+.cartola {
+  color: #e3662b;
+}
+
+.globoplay {
+  color: #fb0735;
+}
+
+.dropz {
+  color: #ff75bb;
+}
+
+.gshow {
+  color: #ec7d00;
+}
+
+.quem {
+  color: #323333;
+}
+
+.receitas {
+  color: #a81d83;
+}
+
+a {
+  text-decoration: none;
+}
+
+.blink182 {
+  font-weight: bold;
+  font-size: 52px;
+  color: #c4160c;
+  margin-bottom: 20px;
+}
+
+.blink {
+  font-weight: 500;
+  font-size: 18px;
+  color: #303134;
+  margin-bottom: 5px;
+}
+
+.h2 {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17.5px;
+  color: #c4170c;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.h3 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  color: #2f3134;
+  margin-bottom: 5px;
+}
+
+.h4 {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  color: #2f3134;
+  margin-top: 5px;
+}
+
+.h5 {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17.5px;
+  color: #16ae54;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.h6 {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17.5px;
+  color: #ec8006;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.imagens_materias {
+  border-radius: 12px;
+  width: 193px;
+  height: 110px;
+}
+
+.imagens_materias_direita {
+  border-radius: 12px;
+  width: 240px;
+  height: 128px;
+}
+
+.conteudo {
+  font-family: "Encode Sans", sans-serif;
+  width: 1250px;
+  display: flex;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.materias_esquerda {
+  width: 675px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.materias_direita {
+  width: 675px;
+  display: flex;
+  justify-content: center;
+}
+
+.materias_secundarias_a {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.materias_secundarias_b {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.linha_divisoria2 {
+  background-color: #ebedef;
+  width: 675px;
+  height: 1px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.linha_divisoriav {
+  background-color: #ebedef;
+  width: 1px;
+  height: 700px;
+  margin-right: 20px;
+}
+
+.linha_divisoriav2 {
+  background-color: #ebedef;
+  width: 1px;
+  height: 700px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.palmeiras {
+  margin-bottom: 30px;
+}
+
+.cruzeiro {
+  margin-bottom: 30px;
+}
+
+.ferias {
+  margin-bottom: 30px;
+}
+
+.verdades {
+  margin-bottom: 30px;
+}
